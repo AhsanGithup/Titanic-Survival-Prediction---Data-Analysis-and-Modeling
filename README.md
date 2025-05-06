@@ -37,7 +37,3 @@ This project analyzes passenger data from the Titanic disaster to build a machin
 ### ✅ **Outcome**
 
 The notebook concludes with predictions and a basic evaluation metric (claims 100% accuracy, which should be validated). Visuals and tables support the analysis throughout.
-
----
-
-                                               *** END ***
