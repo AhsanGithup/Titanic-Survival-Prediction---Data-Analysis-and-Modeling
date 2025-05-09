@@ -37,3 +37,6 @@ This project analyzes passenger data from the Titanic disaster to build a machin
 ### ✅ **Outcome**
 
 The notebook concludes with predictions and a basic evaluation metric (claims 100% accuracy, which should be validated). Visuals and tables support the analysis throughout.
+
+![stock-vector--titanic-is-a-vector-design-for-printing-on-various-surfaces-like-t-shirt-mug-etc-2195367077](https://github.com/user-attachments/assets/d27c2d3f-8ee6-40d4-9a3f-2d54004168a5)
+
